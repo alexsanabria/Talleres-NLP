@@ -24,3 +24,8 @@ Taller 9: LDA
 
 Taller 10: WordCloud
   - https://nbviewer.jupyter.org/github/alexsanabria/NLP/blob/main/WordCloud.ipynb
+
+Proyecto final: Sistema para la clasificación de hojas de vida
+  - https://github.com/alexsanabria/AnalisisHojasVida
+
+
